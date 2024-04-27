@@ -63,7 +63,7 @@ class RtpSocketReceive:
             # elif rqt_sequence_number > 1:
             #     self.total_data_list.append(payload)
             # else:
-            #     print("习近平把你丢进来的吗！")
+            #     print("somethin wrong")
 
     @staticmethod
     def get_payload(packet):
